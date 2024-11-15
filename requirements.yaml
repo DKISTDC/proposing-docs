@@ -5,6 +5,6 @@ dependencies:
   - conda: python-graphviz  # When names differ between Conda and Pip
     pip: graphviz
   - jupyter-book
-  - pip: sunpy-sphinx-theme
+  - pip: dkist-sphinx-theme
   - conda: graphviz!=2.42.*,!=2.43.*
   - sphinx-autobuild

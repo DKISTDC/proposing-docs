@@ -30,6 +30,6 @@ html:
 # Sphinx overrides
 sphinx:
   config:
-    html_theme: sunpy
+    html_theme: dkist
     html_theme_options:
       search_bar_text: 'Search'
