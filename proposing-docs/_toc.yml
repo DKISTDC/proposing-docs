@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-  - file: cycle4/index
+  - file: cycle3/index
     #sections:
     #  - file: cycle4/subsection
